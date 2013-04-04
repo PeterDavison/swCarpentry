@@ -1,5 +1,5 @@
-Cups of Coffee
-==============
+Many Cups of Coffee
+===================
 
 Cups of coffee are cups containing coffee...
  A change by James
