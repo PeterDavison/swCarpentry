@@ -1,4 +1,4 @@
-Cups of Lovely Coffee
+Many Cups of Lovely Coffee
 ==============
 
 Cups of coffee are cups containing coffee...
@@ -7,3 +7,5 @@ Another change by James
 That last statement seems a bit crazy!
 
 corrected typo...
+
+The latest change, after James's one!
