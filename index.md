@@ -4,4 +4,6 @@ Cups of Coffee
 Cups of coffee are cups containing coffee...
 
 
-That last staement seems a bit crazy!
+That last statement seems a bit crazy!
+
+corrected typo...
